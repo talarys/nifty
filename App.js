@@ -20,7 +20,7 @@ export default function App() {
 		InterLight: require('./assets/fonts/Inter-Light.ttf'),
 		InterMedium: require('./assets/fonts/Inter-Medium.ttf'),
 		InterRegular: require('./assets/fonts/Inter-Regular.ttf'),
-		InterSemibold: require('./assets/fonts/InterSemibold'),
+		InterSemibold: require('./assets/fonts/Inter-SemiBold.ttf'),
 		InterBold: require('./assets/fonts/Inter-Bold.ttf'),
 	});
 
